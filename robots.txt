@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ridquez.github.io/sitemap.txt.gz
+Sitemap: https://ridquez.github.io/sitemap/sitemap_index.txt.gz
